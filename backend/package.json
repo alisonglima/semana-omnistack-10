@@ -1,0 +1,8 @@
+{
+  "name": "semana-omnistack-10",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alisonglima/semana-omnistack-10.git",
+  "author": "Alison Gustavo de Lima <alisonlima2@hotmail.com>",
+  "license": "MIT"
+}
