@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  🚀 Semana OmniStack 10.0
+  🚀 OmniStack Week 10.0
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/alisonglima/dev-radar">
@@ -22,10 +22,10 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>
+  <a href="#-how-to-contribute">How to contribute</a>
 </p>
 
 <br>
@@ -34,35 +34,35 @@
   <img alt="Frontend" src=".github/devradar.png" width="100%">
 </p>
 
-## :rocket: Tecnologias
+## :rocket: Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
-## 💻 Projeto
+## 💻 Project
 
-O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
+DevRadar is a project that aims to connect developers close to you who work with the same technologies.
 
 ## 🔖 Layout
 
-Você pode baixar o layout do projeto no formato `.sketch` através [desse link](.github/DevRadar.sketch).
+You can download the project layout in `.sketch` format from [this link](.github/DevRadar.sketch).
 
-Para abrir o arquivo no formato `.sketch` em qualquer sistema operacional utilize a ferramenta [Figma](https://figma.com).
+To open the file in `.sketch` format on any operating system, use the [Figma] tool (https://figma.com).
 
-## 🤔 Como contribuir
+## 🤔 How to contribute
 
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
+- Fork this repository;
+- Create a branch with your feature: `git checkout -b my-feature`;
+- Commit your changes: `git commit -m 'feat: My new feature'`;
+- Push to your branch: `git push origin my-feature`.
 
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+After your pull request is merged, you can delete your branch.
 
-## <img src="https://raw.githubusercontent.com/alisonglima/semana-omnistack-7/master/heroku-logo.png" alt="Heroku" width="35"/> Deploy 
+## <img src="https://raw.githubusercontent.com/alisonglima/semana-omnistack-7/master/heroku-logo.png" alt="Heroku" width="35"/> Deploy
 
 The Backend and Frontend are hosted at [Heroku](https://www.heroku.com/).
 - [Frontend](https://semana-omnistack-10-frontend.herokuapp.com/)
